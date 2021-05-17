@@ -1,4 +1,4 @@
-# vitti-proj
+# Neural Style Transfer using images generated using a Deep Convolutional Generative Adversarial Network
 
 This project entails the implementation of Neural Style Transfer (NST) using the wikiart dataset (found on wikiart.org), using computer-generated images by a DCGAN.
 
